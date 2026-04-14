@@ -1,0 +1,10 @@
+experiment:
+  corpus: example_corpus
+  words:
+    - example_concept
+  years:
+    - 1915-1926
+  env_path: configs/env/local.yaml
+runtime:
+  device: cuda:0
+paths: {}
